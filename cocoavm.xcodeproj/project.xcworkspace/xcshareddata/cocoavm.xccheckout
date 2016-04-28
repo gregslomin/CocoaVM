@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A42A10D2-1D04-444B-BC41-FF96A30DEB0A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cocoavm</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>284CFBDD8C1048468CE7C28A138E93D56E14F2C0</key>
+		<string>https://github.com/fisoc/bp-mobile-comps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cocoavm.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>284CFBDD8C1048468CE7C28A138E93D56E14F2C0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fisoc/bp-mobile-comps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>284CFBDD8C1048468CE7C28A138E93D56E14F2C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>284CFBDD8C1048468CE7C28A138E93D56E14F2C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>saved_files%202</string>
+		</dict>
+	</array>
+</dict>
+</plist>
